@@ -13,11 +13,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import java.util.List;
 import java.util.Optional;
 
-/**
- * @author Administrator
- * @version 1.0
- * @create 2018-09-12 18:11
- **/
+
 @SpringBootTest
 @RunWith(SpringRunner.class)
 public class CmsPageRepositoryTest {
