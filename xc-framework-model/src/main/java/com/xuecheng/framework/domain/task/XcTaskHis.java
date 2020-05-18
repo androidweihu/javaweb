@@ -8,7 +8,9 @@ import javax.persistence.*;
 import java.io.Serializable;
 import java.util.Date;
 
-
+/**
+ * Created by mrt on 2018/4/4.
+ */
 @Data
 @ToString
 @Entity

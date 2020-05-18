@@ -5,7 +5,9 @@ import com.xuecheng.framework.model.response.ResultCode;
 import lombok.Data;
 import lombok.ToString;
 
-
+/**
+ * Created by mrt on 2018/3/20.
+ */
 @Data
 @ToString
 public class AddCourseResult extends ResponseResult {

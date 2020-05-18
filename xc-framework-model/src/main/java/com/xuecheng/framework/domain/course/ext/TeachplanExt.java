@@ -4,7 +4,9 @@ import com.xuecheng.framework.domain.course.Teachplan;
 import lombok.Data;
 import lombok.ToString;
 
-
+/**
+ * Created by admin on 2018/2/7.
+ */
 @Data
 @ToString
 public class TeachplanExt extends Teachplan {

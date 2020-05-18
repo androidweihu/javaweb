@@ -7,7 +7,9 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.Map;
 
-
+/**
+ * Created by mrt on 2018/2/5.
+ */
 @Data
 @ToString
 @Document(collection = "filesystem")

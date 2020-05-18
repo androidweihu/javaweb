@@ -8,7 +8,9 @@ import org.springframework.data.mongodb.core.mapping.Document;
 import javax.persistence.Column;
 import java.util.Date;
 
-
+/**
+ * Created by mrt on 2018/3/30.
+ */
 @Data
 @ToString
 @Document(collection = "user_test")

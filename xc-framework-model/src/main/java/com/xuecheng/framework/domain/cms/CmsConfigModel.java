@@ -5,7 +5,9 @@ import lombok.ToString;
 
 import java.util.Map;
 
-
+/**
+ * Created by admin on 2018/2/6.
+ */
 @Data
 @ToString
 public class CmsConfigModel {
